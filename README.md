@@ -1,1 +1,1 @@
-# dapp-infura-start-kit
+# dapp-infura-starter-kit
